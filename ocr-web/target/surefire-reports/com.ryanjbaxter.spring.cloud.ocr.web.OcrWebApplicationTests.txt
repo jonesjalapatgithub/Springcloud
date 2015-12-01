@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ryanjbaxter.spring.cloud.ocr.web.OcrWebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.374 sec - in com.ryanjbaxter.spring.cloud.ocr.web.OcrWebApplicationTests

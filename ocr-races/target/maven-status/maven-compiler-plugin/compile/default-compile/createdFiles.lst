@@ -1,0 +1,5 @@
+com\ryanjbaxter\spring\cloud\ocr\races\RaceWithParticipants.class
+com\ryanjbaxter\spring\cloud\ocr\races\Participant.class
+com\ryanjbaxter\spring\cloud\ocr\races\ParticipantsClient.class
+com\ryanjbaxter\spring\cloud\ocr\races\OcrRacesApplication.class
+com\ryanjbaxter\spring\cloud\ocr\races\Race.class
