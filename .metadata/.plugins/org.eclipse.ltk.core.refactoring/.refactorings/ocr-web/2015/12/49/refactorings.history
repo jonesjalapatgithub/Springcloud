@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;main.js&apos; to &apos;controllers&apos;&#x0D;&#x0A;- Original project: &apos;ocr-web&apos;&#x0D;&#x0A;- Destination element: &apos;controllers&apos;&#x0D;&#x0A;- Original element: &apos;main.js&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/resources/static/controllers/main.js" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1449119553957" target="src/main/resources/static/scripts/controllers" units="0" version="1.0"/>
+</session>
