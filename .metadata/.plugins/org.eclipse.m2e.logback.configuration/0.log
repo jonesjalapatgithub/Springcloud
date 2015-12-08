@@ -340,3 +340,673 @@
 2015-12-03 13:46:26,426 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2015-12-03 13:46:26,426 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-12-03 13:46:26,426 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:20:28,684 [Worker-264] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-03 23:21:10,564 [Worker-264] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-03 23:21:12,137 [Worker-259] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.3.RELEASE/spring-cloud-starter-hystrix-1.0.3.RELEASE.pom
+2015-12-03 23:21:12,487 [Worker-259] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.3.RELEASE/spring-cloud-starter-hystrix-1.0.3.RELEASE.pom
+2015-12-03 23:21:13,281 [Worker-259] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.3.RELEASE/spring-cloud-starter-hystrix-1.0.3.RELEASE.jar
+2015-12-03 23:21:13,629 [Worker-259] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-hystrix/1.0.3.RELEASE/spring-cloud-starter-hystrix-1.0.3.RELEASE.jar
+2015-12-03 23:21:14,154 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:14,154 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-03 23:21:14,154 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-03 23:21:14,155 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:14,155 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:21:16,379 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:16,379 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:21:16,380 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:21:16,383 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:16,383 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:21:17,443 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:17,444 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:21:17,445 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:21:17,447 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:21:17,447 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:29:00,600 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:29:00,600 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:29:00,601 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:29:00,603 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:29:00,603 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:29:39,604 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:29:39,605 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:29:39,606 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:29:39,607 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:29:39,607 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:31:15,278 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:31:15,279 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:31:15,280 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:31:15,283 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:31:15,283 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:33:06,725 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:33:06,725 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:33:06,726 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:33:06,728 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:33:06,728 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:33:42,710 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:33:42,711 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:33:42,712 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:33:42,714 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:33:42,714 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:34:02,221 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:34:02,221 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:34:02,222 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:34:02,224 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:34:02,224 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:34:20,012 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:34:20,013 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:34:20,014 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:34:20,015 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:34:20,015 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-03 23:35:46,572 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:35:46,573 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:35:46,574 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-03 23:35:46,575 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-03 23:35:46,575 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-04 00:06:31,666 [Worker-259] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-hystrix-dashboard:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\pom.xml.
+2015-12-04 00:06:34,104 [Worker-259] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-hystrix-dashboard/src/main/java
+2015-12-04 00:06:34,104 [Worker-259] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-hystrix-dashboard/src/main/resources
+2015-12-04 00:06:34,104 [Worker-259] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-hystrix-dashboard/src/main/resources
+2015-12-04 00:06:34,104 [Worker-259] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-hystrix-dashboard/src/test/java
+2015-12-04 00:06:34,488 [Worker-259] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2015-12-04 00:06:35,873 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:06:35,873 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:06:35,874 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 00:06:35,875 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:06:35,875 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-04 00:08:53,593 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:08:53,593 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:08:53,593 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 00:08:53,593 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:08:53,593 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-04 00:12:17,212 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-12-04 00:23:34,973 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-hystrix-dashboard:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\pom.xml.
+2015-12-04 00:23:40,390 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:40,392 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:23:40,398 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 00:23:40,401 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:40,401 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-04 00:23:49,532 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-04 00:23:51,858 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:51,858 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:23:51,859 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:23:51,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:51,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-04 00:23:54,626 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:54,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 00:23:54,695 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2015-12-04 00:23:54,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 00:23:54,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-04 09:58:19,828 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 09:58:19,828 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 09:58:19,828 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 09:58:19,844 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 09:58:19,844 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-04 09:58:29,245 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 09:58:29,245 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 09:58:29,276 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 09:58:29,276 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 09:58:29,276 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-04 18:48:38,423 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:48:38,423 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-04 18:48:38,439 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-04 18:48:38,439 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:48:38,439 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-07 14:48:02,914 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:48:02,919 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:48:02,926 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:48:02,928 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:48:02,929 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 14:49:11,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:49:11,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:49:11,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:49:11,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:49:11,574 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 14:50:11,856 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:50:11,856 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:50:11,856 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:50:11,856 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:50:11,856 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 14:50:21,541 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:50:21,541 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:50:21,541 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:50:21,541 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:50:21,541 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 14:52:05,499 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:52:05,500 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 14:52:05,501 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 14:52:05,505 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 14:52:05,505 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-07 15:44:39,224 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 15:44:40,777 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 15:44:40,777 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 15:44:40,777 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 15:44:40,777 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 15:44:40,777 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 15:44:43,674 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 15:44:43,675 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 15:44:43,676 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 15:44:43,681 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 15:44:43,681 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 18:37:35,054 [Worker-154] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 18:37:36,290 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 18:37:36,291 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 18:37:36,292 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 18:37:36,293 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 18:37:36,293 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 18:37:38,174 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 18:37:38,175 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 18:37:38,176 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 18:37:38,179 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 18:37:38,179 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:03:36,233 [Worker-164] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:03:37,970 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:03:37,971 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:03:37,971 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:03:37,972 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:03:37,973 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:03:40,189 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:03:40,190 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:03:40,191 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:03:40,193 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:03:40,193 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:04:05,529 [Worker-167] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:04:08,667 [Worker-167] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/rxjava/rxjava-core/0.19.1/rxjava-core-0.19.1.jar
+2015-12-07 19:04:11,074 [Worker-167] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/rxjava/rxjava-core/0.19.1/rxjava-core-0.19.1.jar
+2015-12-07 19:04:11,577 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:11,578 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:04:11,578 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:04:11,579 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:11,579 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:04:14,106 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:14,106 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:04:14,107 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:04:14,110 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:14,110 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:04:26,336 [Worker-164] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-web:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-web\pom.xml.
+2015-12-07 19:04:27,354 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:27,354 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:04:27,355 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2015-12-07 19:04:27,380 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:27,380 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:04:29,663 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:29,664 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:04:29,776 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2015-12-07 19:04:29,810 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:04:29,811 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:08:06,079 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:08:06,989 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:06,989 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:08:06,990 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:08:06,991 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:06,991 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:08:08,969 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:08,970 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:08,971 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:08,973 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:08,973 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:08:35,143 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:08:35,522 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:35,523 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:08:35,523 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:08:35,524 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:35,524 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:08:37,190 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:37,190 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:37,191 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:37,194 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:37,194 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:08:56,045 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-12-07 19:08:56,254 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:08:56,718 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-participants/src/main/java
+2015-12-07 19:08:56,719 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-participants/src/main/resources
+2015-12-07 19:08:56,719 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-participants/src/main/resources
+2015-12-07 19:08:56,719 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-participants/src/test/java
+2015-12-07 19:08:57,049 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-12-07 19:08:57,930 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:57,930 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:57,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:08:57,933 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:08:57,933 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:09:31,498 [Worker-172] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:09:31,813 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:09:31,813 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:09:31,813 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:09:31,814 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:09:31,814 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:09:58,177 [Worker-170] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-12-07 19:09:58,368 [Worker-170] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:09:58,749 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-participants/src/main/java
+2015-12-07 19:09:58,749 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-participants/src/main/resources
+2015-12-07 19:09:58,749 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-participants/src/main/resources
+2015-12-07 19:09:58,750 [Worker-170] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-participants/src/test/java
+2015-12-07 19:09:58,872 [Worker-170] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-12-07 19:09:59,900 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:09:59,900 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:09:59,901 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:09:59,903 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:09:59,903 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:10:35,392 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:10:36,393 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:36,393 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:10:36,393 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:10:36,394 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:36,394 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:10:37,775 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:37,775 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:10:37,776 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:10:37,778 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:37,778 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:10:57,684 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:10:58,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:58,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:10:58,623 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:10:58,624 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:10:58,624 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:11:19,033 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:11:32,273 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-participants:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-participants\pom.xml.
+2015-12-07 19:11:33,301 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:11:33,301 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:11:33,301 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:11:33,302 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:11:33,302 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:13:40,699 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:13:42,674 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:13:42,674 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:13:42,674 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:13:42,675 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:13:42,675 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:13:44,397 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:13:44,397 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:13:44,399 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:13:44,401 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:13:44,401 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:14:15,508 [Worker-174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:14:17,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:17,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:14:17,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:14:17,265 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:17,265 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:14:19,801 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:19,802 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:14:19,803 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:14:19,805 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:19,805 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:14:32,353 [Worker-174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-web:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-web\pom.xml.
+2015-12-07 19:14:33,452 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:33,453 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:14:33,453 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:14:33,454 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:33,454 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:14:36,269 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:36,270 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:14:36,271 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2015-12-07 19:14:36,280 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:14:36,280 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:15:00,194 [Worker-174] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-web:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-web\pom.xml.
+2015-12-07 19:15:01,284 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:15:01,284 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:15:01,284 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:15:01,285 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:15:01,285 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:36:55,267 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:36:55,272 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:36:55,279 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:36:55,281 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:36:55,282 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-eureka2\ocr-eureka2\src\test\resources
+2015-12-07 19:38:07,128 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:07,132 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:07,140 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:38:07,142 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:07,142 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-eureka2\ocr-eureka2\src\test\resources
+2015-12-07 19:38:09,595 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:09,596 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:09,597 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:38:09,599 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:09,599 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-hystrix-dashboard\src\test\resources
+2015-12-07 19:38:11,649 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:11,649 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:11,650 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:11,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:11,654 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-participants\src\test\resources
+2015-12-07 19:38:16,740 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:16,740 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:16,830 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:16,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:16,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:38:18,372 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:18,372 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:38:18,373 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2015-12-07 19:38:18,413 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:38:18,413 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-web\src\test\resources
+2015-12-07 19:44:17,640 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:44:19,139 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:44:19,140 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:44:19,140 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:44:19,141 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:44:19,141 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:50:15,737 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:50:17,223 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:50:17,223 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:50:17,223 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:50:17,225 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:50:17,225 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:52:46,808 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:52:48,175 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:52:48,175 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:52:48,175 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:52:48,177 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:52:48,177 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:52:50,768 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:52:50,769 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:52:50,770 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:52:50,773 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:52:50,773 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:53:00,019 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:53:01,562 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:01,562 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:01,563 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:01,564 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:01,564 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:53:03,759 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:03,760 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:53:03,907 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:53:03,910 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:03,910 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:53:25,303 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:53:26,651 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:26,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:26,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:26,653 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:26,653 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:53:28,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:28,956 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:53:28,957 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:53:28,959 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:28,960 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:53:36,812 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:53:38,145 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:38,146 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:38,146 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:53:38,147 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:53:38,147 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:56:25,858 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:56:27,162 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:56:27,162 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:56:27,162 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:56:27,164 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:56:27,164 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:56:29,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:56:29,749 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:56:29,751 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:56:29,755 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:56:29,755 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:57:09,894 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:57:11,279 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:11,279 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:57:11,279 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:57:11,280 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:11,280 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:57:13,684 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:13,685 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:57:13,835 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:57:13,837 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:13,838 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:57:27,160 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:57:28,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:28,346 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:57:28,347 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:57:28,348 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:28,348 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:57:30,751 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:30,751 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:57:30,752 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:57:30,755 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:57:30,755 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:58:11,993 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 19:58:12,824 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:58:12,824 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:58:12,825 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 19:58:12,826 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:58:12,826 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 19:58:14,936 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:58:14,937 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:58:14,938 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 19:58:14,940 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 19:58:14,940 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:00:41,216 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:00:42,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:00:42,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:00:42,241 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:00:42,242 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:00:42,242 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:00:45,399 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:00:45,400 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:00:45,401 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:00:45,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:00:45,403 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:02:02,527 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-12-07 20:02:03,100 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:02:04,108 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-races/src/main/java
+2015-12-07 20:02:04,109 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-races/src/main/resources
+2015-12-07 20:02:04,109 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ocr-races/src/main/resources
+2015-12-07 20:02:04,110 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-races/src/test/java
+2015-12-07 20:02:04,500 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-12-07 20:02:05,715 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:02:05,715 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:02:05,716 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:02:05,719 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:02:05,719 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:10:19,327 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:10:19,739 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:10:19,740 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:10:19,740 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:10:19,741 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:10:19,741 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:10:21,428 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:10:21,428 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:10:21,429 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:10:21,431 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:10:21,431 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:11:15,646 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:11:16,769 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:11:16,769 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:11:16,769 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:11:16,770 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:11:16,770 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:11:18,209 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:11:18,210 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:11:18,210 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:11:18,213 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:11:18,213 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:12:03,460 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:12:04,566 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:04,566 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:04,566 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:04,567 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:04,567 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:12:15,213 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:12:16,712 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:16,712 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:16,712 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:16,713 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:16,713 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:12:18,301 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:18,302 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:12:18,303 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-07 20:12:18,305 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:18,305 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-07 20:12:21,413 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-07 20:12:22,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:22,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:22,697 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-07 20:12:22,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-07 20:12:22,698 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 09:36:29,903 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 09:38:11,358 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 09:38:13,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 09:38:13,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 09:38:13,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 09:38:13,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 09:38:13,539 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 09:38:16,497 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 09:38:16,513 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 09:38:16,528 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 09:38:16,528 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 09:38:16,528 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 10:06:34,074 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 10:06:35,663 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:06:35,663 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:06:35,663 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:06:35,663 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:06:35,663 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 10:08:05,189 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 10:08:07,252 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:08:07,252 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:08:07,252 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:08:07,252 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:08:07,252 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 10:08:28,262 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 10:08:30,463 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:08:30,463 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:08:30,463 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:08:30,463 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:08:30,463 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 10:10:49,934 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 10:10:52,242 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:10:52,243 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:10:52,243 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 10:10:52,245 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 10:10:52,245 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:11:39,574 [Worker-112] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 13:11:41,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:11:41,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:11:41,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:11:41,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:11:41,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:39:55,187 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 13:39:57,753 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-core/1.4.21/hystrix-core-1.4.21.pom
+2015-12-08 13:39:58,091 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-core/1.4.21/hystrix-core-1.4.21.pom
+2015-12-08 13:39:58,437 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.0.14/rxjava-1.0.14.pom
+2015-12-08 13:39:58,797 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.0.14/rxjava-1.0.14.pom
+2015-12-08 13:39:59,597 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-core/1.4.21/hystrix-core-1.4.21.jar
+2015-12-08 13:40:01,159 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-core/1.4.21/hystrix-core-1.4.21.jar
+2015-12-08 13:40:01,503 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.0.14/rxjava-1.0.14.jar
+2015-12-08 13:40:03,208 [Worker-119] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/reactivex/rxjava/1.0.14/rxjava-1.0.14.jar
+2015-12-08 13:40:03,948 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:03,948 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:40:03,948 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:40:03,950 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:03,951 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:40:07,024 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:07,024 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:40:07,031 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:40:07,035 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:07,035 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:40:43,171 [Worker-127] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 13:40:44,305 [Worker-127] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.4.21/hystrix-metrics-event-stream-1.4.21.pom
+2015-12-08 13:40:44,649 [Worker-127] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.4.21/hystrix-metrics-event-stream-1.4.21.pom
+2015-12-08 13:40:45,120 [Worker-127] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.4.21/hystrix-metrics-event-stream-1.4.21.jar
+2015-12-08 13:40:45,493 [Worker-127] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/hystrix/hystrix-metrics-event-stream/1.4.21/hystrix-metrics-event-stream-1.4.21.jar
+2015-12-08 13:40:45,962 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:45,962 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:40:45,977 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:40:45,977 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:45,977 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:40:48,871 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:48,871 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:40:48,878 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:40:48,881 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:40:48,881 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:46:40,139 [Worker-131] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 13:46:41,516 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:46:41,516 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:46:41,516 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:46:41,516 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:46:41,516 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:46:44,301 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:46:44,301 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:46:44,426 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:46:44,426 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:46:44,426 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:56:21,931 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 13:56:23,310 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:56:23,310 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:56:23,310 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 13:56:23,310 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:56:23,310 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:59:09,481 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:09,496 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:09,496 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:09,496 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:09,496 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:59:40,506 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:40,506 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:40,506 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:40,506 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:40,506 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 13:59:48,633 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:48,633 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:48,633 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 13:59:48,633 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 13:59:48,633 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 15:33:14,788 [Worker-177] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 15:33:16,163 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 15:33:16,163 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 15:33:16,163 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 15:33:16,179 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 15:33:16,179 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 15:48:29,714 [Worker-183] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 15:48:31,089 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 15:48:31,089 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 15:48:31,089 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 15:48:31,089 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 15:48:31,089 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:01:03,631 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 16:01:05,082 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:05,082 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:01:05,082 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:01:05,082 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:05,082 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:01:19,805 [Worker-185] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 16:01:21,287 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:21,287 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:01:21,287 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:01:21,287 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:21,287 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:01:23,725 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:23,725 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 16:01:23,725 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 16:01:23,741 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:01:23,741 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:10:34,181 [Worker-185] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 16:10:35,572 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:10:35,572 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:10:35,572 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:10:35,572 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:10:35,572 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:12:30,691 [Worker-185] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 16:12:32,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:12:32,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:12:32,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 16:12:32,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:12:32,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 16:12:35,667 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:12:35,667 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 16:12:35,683 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 16:12:35,683 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 16:12:35,683 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 17:14:01,651 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:14:01,651 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 17:14:01,651 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 17:14:01,651 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:14:01,651 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 17:48:27,889 [Worker-238] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ryanjbaxter.spring.cloud:ocr-races:0.0.1-SNAPSHOT @ D:\work\SPRING\springcloud2\springcloud\ocr-races\pom.xml.
+2015-12-08 17:48:29,219 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:48:29,219 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 17:48:29,219 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-08 17:48:29,219 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:48:29,219 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources
+2015-12-08 17:48:31,841 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:48:31,841 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 17:48:31,857 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-12-08 17:48:31,857 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-08 17:48:31,857 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work\SPRING\springcloud2\springcloud\ocr-races\src\test\resources

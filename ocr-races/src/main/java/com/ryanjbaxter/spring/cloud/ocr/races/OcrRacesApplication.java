@@ -6,23 +6,30 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.feign.EnableFeignClients;
 import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 
 
 @EnableEurekaClient
 @SpringBootApplication
 @RestController
 @EnableFeignClients
+@EnableCircuitBreaker
 public class OcrRacesApplication implements CommandLineRunner {
     
-	@Autowired
-	private ParticipantsClient participantsClient;
+	
+	 @Autowired
+	 private ParticipantsBean participantsBean;
 
     private static List<Race> races = new ArrayList<Race>();
     public static void main(String[] args) {
@@ -41,7 +48,7 @@ public class OcrRacesApplication implements CommandLineRunner {
         
         for(Race r : races) {
         	System.out.println(r);
-            returnRaces.add(new RaceWithParticipants(r, participantsClient.getParticipants(r.getId())));
+            returnRaces.add(new RaceWithParticipants(r, participantsBean.getParticipants(r.getId())));
         }
         return returnRaces;
     }
@@ -50,6 +57,20 @@ public class OcrRacesApplication implements CommandLineRunner {
         return races;
     }
     
+}
+@Component
+class ParticipantsBean {
+    @Autowired
+    private ParticipantsClient participantsClient;
+    @HystrixProperty(name = "hystrix.command.default.execution.timeout.enabled", value = "false")
+    @HystrixCommand(fallbackMethod = "defaultParticipants")
+    public List<Participant> getParticipants(String raceId) {
+        return participantsClient.getParticipants(raceId);
+    }
+    
+    public List<Participant> defaultParticipants(String raceId) {
+        return new ArrayList<Participant>();
+    }
 }
 @FeignClient("participants")
 interface ParticipantsClient {
